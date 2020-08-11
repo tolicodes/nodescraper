@@ -1,0 +1,8 @@
+{
+  "name": "#seo_h1_tag",
+  "header_image_link": "#event_header_primary > div:nth-child(1) > div._3kwh > a",
+  "header_image": "#photos_snowlift .stage img",
+  "date": "#event_time_info ._2ycp",
+  "description": "div._63ew",
+  "creator": "[data-testid=\"event_permalink_feature_line\"] a"
+}
