@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "preserveSymlinks": true,
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "declaration": true
+  },
+  "exclude": [
+    "src/__tests__",
+    "node_modules",
+    "dist"
+  ]
+}
